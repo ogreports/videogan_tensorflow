@@ -2,6 +2,8 @@ Generating Videos with Scene Dynamics
 --------------------------------------
 This repository contains an implementation of [Generating Videos with Scene Dynamics](http://web.mit.edu/vondrick/tinyvideo/) by Carl Vondrick, Hamed Pirsiavash, Antonio Torralba. The model learns to generate tiny videos using adversarial networks.
 
+Given a sequence of initial frames, this model is able to predict future frames of various possible futures. 
+
 Visualizations
 ---------------------------------
 When trained on golf dataset, the following samples are obtained. <br>
